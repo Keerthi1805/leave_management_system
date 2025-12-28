@@ -1,2 +1,2 @@
-leave management System
+leave management System.
 
